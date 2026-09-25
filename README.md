@@ -5,6 +5,10 @@ This project performs Exploratory Data Analysis (EDA) and builds Machine Learnin
 
 ---
 
+## A chart explaining the complete flow:
+<img width="868" height="1041" alt="image" src="https://github.com/user-attachments/assets/c82fd3db-65bc-414e-8b56-e06dfe31935b" />
+
+
 ## Tech Stack and Libraries
 * Language: Python 
 * Data Manipulation: pandas, numpy
